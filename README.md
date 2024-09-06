@@ -1,3 +1,3 @@
-# prog-2-tp-template
+# TP 5 - Java
 
-Basic setup of template Java Gradle project with JUnit
+Completar las clases Cinema y Seat con la información provista en cada método y en los tests
